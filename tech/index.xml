@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teches on varn.cn</title>
+    <link>https://varn.cn/tech/</link>
+    <description>Recent content in Teches on varn.cn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 22 Nov 2022 20:17:24 +0800</lastBuildDate><atom:link href="https://varn.cn/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我们为谁而测试</title>
+      <link>https://varn.cn/tech/%E6%88%91%E4%BB%AC%E4%B8%BA%E8%B0%81%E8%80%8C%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Tue, 22 Nov 2022 20:17:24 +0800</pubDate>
+      
+      <guid>https://varn.cn/tech/%E6%88%91%E4%BB%AC%E4%B8%BA%E8%B0%81%E8%80%8C%E6%B5%8B%E8%AF%95/</guid>
+      <description>我们首先找出我们想使之满意的那些人，我要用一个宽泛的词“测试利益相关者”来指代这些人。这个词包括但不仅限于测试参与者，包括但不仅限于项目参与</description>
+    </item>
+    
+  </channel>
+</rss>
