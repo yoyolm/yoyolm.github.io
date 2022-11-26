@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://varn.cn/categories/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
+    <loc>https://varn.cn/tech/centos7.6%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AEswap%E7%9A%84%E5%A4%A7%E5%B0%8F/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
+    <loc>https://varn.cn/tags/linux/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
+    <loc>https://varn.cn/categories/linux/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
+    <loc>https://varn.cn/tags/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
+    <loc>https://varn.cn/tech/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
+    <loc>https://varn.cn/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
+    <loc>https://varn.cn/categories/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-11-26T15:04:42+08:00</lastmod>
+  </url><url>
     <loc>https://varn.cn/pic/mountains-190055/</loc>
     <lastmod>2022-11-22T22:31:31+08:00</lastmod>
   </url><url>
-    <loc>https://varn.cn/categories/</loc>
-    <lastmod>2022-11-22T22:31:31+08:00</lastmod>
-  </url><url>
     <loc>https://varn.cn/pic/</loc>
-    <lastmod>2022-11-22T22:31:31+08:00</lastmod>
-  </url><url>
-    <loc>https://varn.cn/tags/</loc>
-    <lastmod>2022-11-22T22:31:31+08:00</lastmod>
-  </url><url>
-    <loc>https://varn.cn/</loc>
     <lastmod>2022-11-22T22:31:31+08:00</lastmod>
   </url><url>
     <loc>https://varn.cn/tags/%E5%9B%BE%E7%89%87/</loc>
@@ -23,16 +38,10 @@
     <loc>https://varn.cn/categories/%E5%9B%BE%E7%89%87/</loc>
     <lastmod>2022-11-22T22:31:31+08:00</lastmod>
   </url><url>
-    <loc>https://varn.cn/tech/</loc>
-    <lastmod>2022-11-22T20:17:24+08:00</lastmod>
-  </url><url>
     <loc>https://varn.cn/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-11-22T20:17:24+08:00</lastmod>
   </url><url>
     <loc>https://varn.cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-11-22T20:17:24+08:00</lastmod>
-  </url><url>
-    <loc>https://varn.cn/categories/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-11-22T20:17:24+08:00</lastmod>
   </url><url>
     <loc>https://varn.cn/tech/%E6%88%91%E4%BB%AC%E4%B8%BA%E8%B0%81%E8%80%8C%E6%B5%8B%E8%AF%95/</loc>
