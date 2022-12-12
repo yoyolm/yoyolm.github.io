@@ -6,7 +6,43 @@
     <description>Recent content in 文章 on varn.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 26 Nov 2022 15:04:42 +0800</lastBuildDate><atom:link href="https://varn.cn/categories/%E6%96%87%E7%AB%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 22:16:45 +0800</lastBuildDate><atom:link href="https://varn.cn/categories/%E6%96%87%E7%AB%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discourse论坛安装时的环境变量配置</title>
+      <link>https://varn.cn/tech/discourse%E8%AE%BA%E5%9D%9B%E5%AE%89%E8%A3%85%E6%97%B6%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Sun, 11 Dec 2022 22:16:45 +0800</pubDate>
+      
+      <guid>https://varn.cn/tech/discourse%E8%AE%BA%E5%9D%9B%E5%AE%89%E8%A3%85%E6%97%B6%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/</guid>
+      <description>- DISCOURSE_DB_PASSWORD=你自定义的数据库密码 - DISCOURSE_DEVELOPER_EMAILS=管理员的邮箱地址 -</description>
+    </item>
+    
+    <item>
+      <title>提示..bash..locate..command..not..found的解决方案</title>
+      <link>https://varn.cn/tech/%E6%8F%90%E7%A4%BA..bash..locate..command..not..found%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Sun, 11 Dec 2022 21:53:27 +0800</pubDate>
+      
+      <guid>https://varn.cn/tech/%E6%8F%90%E7%A4%BA..bash..locate..command..not..found%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
+      <description>locate: command not found错误，表示locate找不到，也就是没有安装mlocate这个包。 比如： 输入命令: locate 1.log 结果返回: -bash: locate: command not found 需要安装mloca</description>
+    </item>
+    
+    <item>
+      <title>Centos7.6安装discourse论坛系统</title>
+      <link>https://varn.cn/tech/centos7.6%E5%AE%89%E8%A3%85discourse%E8%AE%BA%E5%9D%9B%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sun, 11 Dec 2022 02:18:15 +0800</pubDate>
+      
+      <guid>https://varn.cn/tech/centos7.6%E5%AE%89%E8%A3%85discourse%E8%AE%BA%E5%9D%9B%E7%B3%BB%E7%BB%9F/</guid>
+      <description>更新： 1 yum update -y 安装Git： 1 yum install git -y 安装netcat： 1 yum install nc -y 安装docker并启动： 1 yum install -y yum-utils 1 2 3 yum-config-manager \ --add-repo \ https://download.docker.com/linux/centos/docker-ce.repo 1 yum install docker-ce docker-ce-cli containerd.io -y 启动dock</description>
+    </item>
+    
+    <item>
+      <title>Python时间格式化</title>
+      <link>https://varn.cn/tech/python%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96/</link>
+      <pubDate>Thu, 08 Dec 2022 02:09:33 +0800</pubDate>
+      
+      <guid>https://varn.cn/tech/python%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96/</guid>
+      <description>使用： import datetime date=datetime.now() #创建一个datetime类对象 datetime.day,datetime.month,datetime.year 分别表示一个datetime对象的日，月，年； strftime() 用来格式化datetime 对象，datetim</description>
+    </item>
+    
     <item>
       <title>Centos7.6如何设置swap的大小</title>
       <link>https://varn.cn/tech/centos7.6%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AEswap%E7%9A%84%E5%A4%A7%E5%B0%8F/</link>

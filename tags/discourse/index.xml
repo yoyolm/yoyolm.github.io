@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>discourse on varn.cn</title>
+    <link>https://varn.cn/tags/discourse/</link>
+    <description>Recent content in discourse on varn.cn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 11 Dec 2022 22:16:45 +0800</lastBuildDate><atom:link href="https://varn.cn/tags/discourse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discourse论坛安装时的环境变量配置</title>
+      <link>https://varn.cn/tech/discourse%E8%AE%BA%E5%9D%9B%E5%AE%89%E8%A3%85%E6%97%B6%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Sun, 11 Dec 2022 22:16:45 +0800</pubDate>
+      
+      <guid>https://varn.cn/tech/discourse%E8%AE%BA%E5%9D%9B%E5%AE%89%E8%A3%85%E6%97%B6%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/</guid>
+      <description>- DISCOURSE_DB_PASSWORD=你自定义的数据库密码 - DISCOURSE_DEVELOPER_EMAILS=管理员的邮箱地址 -</description>
+    </item>
+    
+  </channel>
+</rss>
